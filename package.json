@@ -1,32 +1,32 @@
 {
   "name": "react-native-social-media-cards",
   "version": "1.0.0",
-  "description": "Animated Pagination For React Native's ListView, FlatList, and SectionList",
+  "description": "Provide a URL and receive a beautiful list of Tweets and Reddit Comments of that URL submission",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/garrettmac/react-native-pagination.git"
+    "url": "git+https://github.com/garrettmac/react-native-social-media-cards.git"
   },
   "keywords": [
     "react-native",
-    "pagination",
+    "social",
+    "media",
+    "social-media",
     "react",
     "native",
-    "listview",
-    "flatlist",
-    "sectionlist",
+    "twitter",
+    "facebook",
+    "reddit",
     "react-component",
-    "react-native-component",
-    "list",
-    "ui"
+    "react-native-component"
   ],
   "author": "Garrett Mac <garrett@vyga.io> (http://vyga.io)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/garrettmac/react-native-pagination/issues"
+    "url": "https://github.com/garrettmac/react-native-social-media-cards/issues"
   },
-  "homepage": "https://github.com/garrettmac/react-native-pagination#readme"
+  "homepage": "https://github.com/garrettmac/react-native-social-media-cards#readme"
 }
